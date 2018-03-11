@@ -13,4 +13,6 @@ class Solution(object):
         #插入排序
         else:
             for i in nums1:
+
+
                 

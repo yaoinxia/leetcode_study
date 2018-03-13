@@ -23,8 +23,15 @@ class Solution(object):
         if (lenA + lenB) % 2 == 1:
             return self.getKth(A, B, (lenA + lenB) / 2 + 1)
         else:
+<<<<<<< HEAD
             return (self.getKth(A, B, (lenA + lenB) / 2) + self.getKth(A, B, (lenA + lenB) / 2 + 1)) * 0.5
 
 
 
 
+=======
+            for i in nums1:
+
+
+                
+>>>>>>> 8cd90e0ade96e1fae0a1cef2001ebfbd0abd789e

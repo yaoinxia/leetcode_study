@@ -7,8 +7,8 @@ class Solution(object):
         i = 0
         j = 1
         temp = []
-        for i in strs[0][i]:
-            temp.append(i) = strs[0][i]
+        for i in (strs[0][i]):
+            temp[i] = strs[0][i]
             for j in strs[j][i]:
                 if temp[i] == strs[j][i]:
                     continue

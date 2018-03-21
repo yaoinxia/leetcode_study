@@ -1,3 +1,3 @@
-Write a function to find the longest common prefix string amongst an array of strings.
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-编写一个函数来查找字符串数组中最长的公共前缀字符串。
+The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.

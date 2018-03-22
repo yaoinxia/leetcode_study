@@ -9,14 +9,14 @@ class Solution(object):
         """
 
 
-        for i in range(0,len(nums)-1):
-            for j in range(i+1,len(nums)-1):
-                if nums[i] == nums[j]:
-                    del nums[j]
+    i = 0
+        for j in range(i+1,len(nums)-1):
+            if nums[i] == nums[j]:
+                del nums[j]
 
-                else:
-                    continue
-        return nums
+            else:
+                continue
+    return nums
 
 
 s = Solution()

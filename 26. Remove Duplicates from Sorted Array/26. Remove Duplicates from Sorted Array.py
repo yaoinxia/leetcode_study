@@ -7,19 +7,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        i = 0
-        j = 1
-        while j < len(nums):
-            if nums[i] == nums[j]:
-                del nums[j]
-                j = j+1
 
-            else:
-                i = j
-                j = j+1
 
+        for i in range(0,len(nums)-1):
+            for j in range(i+1,len(nums)-1):
+                if nums[i] == nums[j]:
+                    del nums[j]
+
+                else:
+                    continue
         return nums
 
 
 s = Solution()
-print(s.removeDuplicates([1,1,2,3]))
+print(s.removeDuplicates([1,1,2,2,3,3,3,44,44,3,]))

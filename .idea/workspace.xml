@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdd5f7d3-15ed-4d62-b180-40e6fb0f417a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py" afterPath="$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/28. Implement strStr()/readme.md" afterPath="$PROJECT_DIR$/28. Implement strStr()/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +24,7 @@
     <SUITE FILE_PATH="coverage/leetcode_study$26__Remove_Duplicates_from_Sorted_Array.coverage" NAME="26. Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1521734596571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array" />
     <SUITE FILE_PATH="coverage/leetcode_study$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1521042577236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13. Roman to Integer" />
     <SUITE FILE_PATH="coverage/leetcode_study$27__Remove_Element.coverage" NAME="27. Remove Element Coverage Results" MODIFIED="1521735704821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27. Remove Element" />
+    <SUITE FILE_PATH="coverage/leetcode_study$28__Implement_strStr__.coverage" NAME="28. Implement strStr() Coverage Results" MODIFIED="1521780028732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28. Implement strStr()" />
     <SUITE FILE_PATH="coverage/leetcode_study$21__Merge_Two_Sorted_Lists.coverage" NAME="21. Merge Two Sorted Lists Coverage Results" MODIFIED="1521563254868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21. Merge Two Sorted Lists" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -61,18 +63,41 @@
       <file leaf-file-name="26. Remove Duplicates from Sorted Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="52" />
+            <state relative-caret-position="-172">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="60" />
+              <folding>
+                <marker date="1521779184637" expanded="true" signature="69:182" ph="..." />
+                <marker date="1521779184637" expanded="true" signature="107:182" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="27. Remove Element.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="27. Remove Element.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
+      <file leaf-file-name="28. Implement strStr().py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/28. Implement strStr()/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,36 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20. Valid Parentheses/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="106" lean-forward="false" selection-start-line="2" selection-start-column="106" selection-end-line="2" selection-end-column="106" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/YanJiuSheng-download/1a/python3.6.1/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,6 +155,8 @@
         <option value="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.py" />
         <option value="$PROJECT_DIR$/27. Remove Element/readme.md" />
         <option value="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" />
+        <option value="$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py" />
+        <option value="$PROJECT_DIR$/28. Implement strStr()/readme.md" />
       </list>
     </option>
   </component>
@@ -216,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="27. Remove Element" />
+              <option name="myItemId" value="28. Implement strStr()" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -230,7 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="26. Remove Duplicates from Sorted Array" />
+              <option name="myItemId" value="27. Remove Element" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,26 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.27. Remove Element">
-    <configuration default="false" name="20. Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20. Valid Parentheses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.28. Implement strStr()">
     <configuration default="false" name="21. Merge Two Sorted Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,6 +357,25 @@
       <module name="leetcode_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="28. Implement strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28. Implement strStr()" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -534,19 +531,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.21. Merge Two Sorted Lists" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Changhe" />
-      <item index="3" class="java.lang.String" itemvalue="Python.26. Remove Duplicates from Sorted Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.27. Remove Element" />
+      <item index="0" class="java.lang.String" itemvalue="Python.21. Merge Two Sorted Lists" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Changhe" />
+      <item index="2" class="java.lang.String" itemvalue="Python.26. Remove Duplicates from Sorted Array" />
+      <item index="3" class="java.lang.String" itemvalue="Python.27. Remove Element" />
+      <item index="4" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.27. Remove Element" />
-        <item index="1" class="java.lang.String" itemvalue="Python.26. Remove Duplicates from Sorted Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Changhe" />
-        <item index="3" class="java.lang.String" itemvalue="Python.21. Merge Two Sorted Lists" />
-        <item index="4" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+        <item index="1" class="java.lang.String" itemvalue="Python.27. Remove Element" />
+        <item index="2" class="java.lang.String" itemvalue="Python.26. Remove Duplicates from Sorted Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Changhe" />
+        <item index="4" class="java.lang.String" itemvalue="Python.21. Merge Two Sorted Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +562,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15658094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -609,7 +605,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.py</url>
-          <line>10</line>
+          <line>9</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -617,26 +613,17 @@
           <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode771.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.Reverse Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9. Palindrome Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -949,14 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/Changhe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -965,18 +944,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27. Remove Element/readme.md">
+    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="-172">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <marker date="1521779184637" expanded="true" signature="69:182" ph="..." />
+            <marker date="1521779184637" expanded="true" signature="107:182" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.py">
+    <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="52" />
+        <state relative-caret-position="208">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -989,10 +971,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
+    <entry file="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27. Remove Element/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28. Implement strStr()/28. Implement strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28. Implement strStr()/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

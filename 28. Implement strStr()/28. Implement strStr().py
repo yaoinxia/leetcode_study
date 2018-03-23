@@ -11,11 +11,16 @@ class Solution(object):
             if haystack[i] == needle[j]:
                 i += 1
                 j += 1
-
-            elif j == len(needle) - 1:
-                return i - len(needle) - 1
+                if haystack[i] == needle[j]:
+                    i += 1
+                    j += 1
+                elif j == len(needle) - 1:
+                    return i - len(needle) - 1
+                else:
+                    j = 0
             else:
                 i += 1
         return -1
+
 s = Solution()
-print(s.strStr('hellisha','llo'))
+print(s.strStr("helloisha","llo"))

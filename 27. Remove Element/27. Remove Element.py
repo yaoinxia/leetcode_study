@@ -8,14 +8,14 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        len1 = len(nums)
-        for i in range(len1-1):
-            if val == nums[i]:
+        i = 0
+        while i < len(nums):
+            if nums[i] == val:
                 del nums[i]
-                len1= len1-1
             else:
-                continue
-        return len1
+                i += 1
+
+        return len(nums)
 
 
 s = Solution()

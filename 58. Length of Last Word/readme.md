@@ -1,0 +1,25 @@
+Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
+
+If the last word does not exist, return 0.
+
+Note: A word is defined as a character sequence consists of non-space characters only.
+
+给定一个字符串s由大写/小写字母和空白字符''组成，返回字符串中最后一个单词的长度。
+
+如果最后一个字不存在，则返回0。
+
+注意：单词被定义为只包含非空格字符的字符序列。
+
+
+学习笔记：
+s = "abced aa bb cc "
+print(s[3])
+print(s.split(" "))
+print(s.split(" ").__len__())
+print(s.split(" ")[3])
+output:
+['abced', 'aa', 'bb', 'cc', '']
+5
+cc
+
+学习心得

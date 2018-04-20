@@ -27,3 +27,21 @@ cc
 比如怎么分割字符串，然后会将分割的字符串作为词典进行存储
 然后就可以使用词典的方法来进行操作
 
+
+别人做法：
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        if len(s) == 0:
+            return 0
+        s = s.split()
+        if len(s) > 0:
+            return len(s[-1])
+        return 0
+
+split()和split(" ")是有区别的，使用split直接就返回非空字符了。
+
+

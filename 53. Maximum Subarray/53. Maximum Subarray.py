@@ -4,28 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        #for i in nums:
-            #print(i)
-        length = len(nums)
-        #滑动窗口大小
-        windows = length
-        #移动指针
-        i = 0
-        #和
-        sum01 = 0
-        #子串的元素x
-        for x in nums:
-            sum01 = sum01 + x
-            min01 = sum01
-            if (sum01 < min01):
-                min01 = sum01
-            else:
-                continue
-            print(min01)
+        # 动态规划问题
+        num = len(nums)  # 列表长度
+        if nums == None and num == 0:
+            return 0  # 空返回0
+        Global = nums[0]  # 全局最优
+        Local = nums[0]  # 当前最优
+        i = 1
+        while i < num:
+            Local = max(nums[i], Local + nums[i])
+            # 当前最优是指当前的数与包括当前数的和的比较，选择最大的
+            Global = max(Local, Global)
+            # 全局最优是指当前的当前最优与前一个全局最优的比较，选择最大的一个
             i += 1
-        #sum_num = sum(nums)
-        #print("sum:" + str(sum_num))
-
+        return Global
 
 s = Solution()
 #print(s.maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))

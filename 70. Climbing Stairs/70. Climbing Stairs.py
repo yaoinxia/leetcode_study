@@ -7,18 +7,17 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        sum = 0
-        #将数值赋给i,完成稍后的递减操作
-        i = n
-        #i只要不为零，就一直减，减1或者2
-        while i > 0:
-            if i == 1:
-                return 1
-            else:
-                
-
-
-
+        pre = 1
+        ppre = 1
+        if n == 1:
+            return 1
+        else:
+            for i in range(2, n + 1):
+                tmp = pre
+                pre = ppre +pre
+                ppre = tmp
+            return pre
 
 s = Solution()
-s.climbStairs(3)
+s2 = s.climbStairs(3)
+print(s2)

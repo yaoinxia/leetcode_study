@@ -11,4 +11,4 @@ class Solution(object):
         j=0
         while i<m and j<n:
             if nums1[i]<=nums2[j] and nums2[j]>nums1[i+1]:
-                
+

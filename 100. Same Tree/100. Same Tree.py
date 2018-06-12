@@ -12,22 +12,20 @@ class Solution(object):
         :type q: TreeNode
         :rtype: bool
         """
-        pl = p.left
-        pr = p.right
-        ql = q.left
-        qr = q.right
-        if p.val == q.val and pl.val == pr.val and ql.val == qr.val:
-            return True
+        if p and q:
+            return p.val==q.val and self.isSameTree(p.right, q.right) and self.isSameTree(p.left,q.left)
         else:
-            return False
+            return p == q
 
-t1 = TreeNode(5)
-t2 = TreeNode(4)
-t3 = TreeNode(1)
+if __name__=="__main__":
+    t1 = TreeNode(1)
+    t1.left = TreeNode(2)
+    t1.right = TreeNode(3)
 
+    t2 = TreeNode(1)
+    t2.left = TreeNode(2)
+    t2.right = TreeNode(3)
 
-
-s = Solution()
-s2 = s.isSameTree(3)
+    print(Solution().isSameTree(t1, t2))
 
 

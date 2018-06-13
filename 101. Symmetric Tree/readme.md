@@ -33,3 +33,6 @@ Bonus points if you could solve it both recursively and iteratively.
     3 3
 注意：
 奖励点数，如果你可以递归地和迭代地解决它。
+想类似问题的时候先判断是否为空
+采用递归，重新定义一个比较函数，在这个函数里面进行递归，一定要加上self
+

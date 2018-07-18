@@ -8,6 +8,8 @@ class Solution(object):
         letters = {}
         for c in s:
             letters[c] = letters[c] + 1 if c in letters else 1
+            print(letters[c])
+            print(letters)
         for i in range(len(s)):
             if letters[s[i]] == 1:
                 return i

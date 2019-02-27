@@ -21,6 +21,7 @@ class Solution(object):
                 l[j] = last + l[j]
                 last = temp
         print(l)
+        return l
 
 if __name__ == '__main__':
     Solution().getRow(4)

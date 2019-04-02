@@ -1,3 +1,8 @@
+"""
+Given an integer array nums, find the contiguous subarray
+(containing at least one number) which has the largest sum and return its sum.
+"""
+
 class Solution(object):
     def maxSubArray(self, nums):
         """
@@ -17,6 +22,7 @@ class Solution(object):
             Global = max(Local, Global)
             # 全局最优是指当前的当前最优与前一个全局最优的比较，选择最大的一个
             i += 1
+        print(Global)
         return Global
 
 s = Solution()

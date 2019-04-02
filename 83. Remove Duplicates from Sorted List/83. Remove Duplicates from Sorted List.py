@@ -7,7 +7,6 @@ class ListNode(object):
         if self:
             return "{}->{}".format(self.val,self.next)
 
-
 class Solution(object):
     def deleteDuplicates(self, head):
         """
@@ -15,7 +14,6 @@ class Solution(object):
         :rtype: ListNode
         """
         p = head
-
         while p != None and p.next != None:
             if p.val == p.next.val:
                 p.next = p.next.next

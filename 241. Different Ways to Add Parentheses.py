@@ -28,6 +28,7 @@ class Solution(object):
                             result.append(l-r)
         if not result:
             result.append(int(input))
+        print(result)
         return result
 
 

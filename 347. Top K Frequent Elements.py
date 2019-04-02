@@ -12,7 +12,7 @@ class Solution(object):
 
         # 1. 定义一个桶， 初始化为0
         tub = [0]*(max(nums)+1)
-        # 2.如果nums的长度为1，直接输出
+        # 2. 如果nums的长度为1，直接输出
 
         if len(nums) == 1:
             return nums

@@ -54,6 +54,24 @@ def catch_doll():
     print(cnt)
 
 
+def Huaxue(x, value):
+    # 先排序
+    # print(sorted(value))
+    v_s = sorted(value)
+    min_v = min(v_s)
+    max_v = max(v_s)
+    for i in range(0, x):
+        if v_s[i] % 2 == 0:
+            continue
+        else:
+            break
+    if i == x-1:
+        print(int(max_v//min_v/2))
+
+
+
+
+
 if __name__ == '__main__':
     # line = sys.stdin.readline().strip()
     # # 把每一行的数字分隔后转化成int列表
@@ -61,7 +79,8 @@ if __name__ == '__main__':
     # li = [3, 3, 0, 1]
     # find_num(values)
 
-    # x = int(sys.stdin.readline().strip())
+    x = int(sys.stdin.readline().strip())
     # print(cat_run(x))
-
-    catch_doll()
+    line = sys.stdin.readline().strip()
+    values = list(map(int, line.split()))
+    Huaxue(x, values)

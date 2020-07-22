@@ -25,7 +25,6 @@ class Solution:
         return min(dp[-1])
 
 
-
 if __name__ == '__main__':
     A = [[17,82],[1,-44]]
     t = Solution().minFallingPathSum2(A)

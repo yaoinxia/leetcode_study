@@ -41,9 +41,51 @@ class Solution(object):
         #print(s[first: count])
         return s[first: first+count]
 
+# 2019/11/26
+def longestP(s):
+    if len(s) == 0:
+        return ""
+    if len(s) == 1:
+        return s
+    # 起始位置
+    first = 0
+    count = 1
+    for k in range(0, len(s)):
+        temp = 0
+        for p in range(len(s)-1, k, -1):
+            i = k
+            # 头和尾不等
+            if s[i] != s[p]:
+                continue
+            j = p
+            temp = 2
+            i += 1
+            j -= 1
+            while i < j:
+                if s[i] != s[j]:
+                    temp = 0
+                    break
+                else:
+                    i += 1
+                    j -= 1
+                    temp +=2
+            if i == j:
+                temp += 1
+            if temp > count:
+                count = temp
+                first = k
+    return s[first: first+count]
+
+
+
+
+
+
+
 if __name__ == "__main__":
     s = "babad"
     # print("=======================")
     # print(str(list(s).reverse()))
     #print(s[0: 1])
-    print(Solution().longestPalindrome(s))
+    # print(Solution().longestPalindrome(s))
+    print(longestP(s))

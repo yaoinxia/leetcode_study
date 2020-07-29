@@ -30,6 +30,32 @@ class Solution(object):
             else:
                 return False
 
+    # 栈的思想
+    def isValid2(self, s):
+        kuohao1 = 0
+        kuohao2 = 0
+        kuohao3 = 0
+
+        for i in s:
+            if i == "(":
+                kuohao1 += 1
+            elif i == ")":
+                kuohao1 -= 1
+            elif i == "{":
+                kuohao2 += 1
+            elif i == "}":
+                kuohao2 -= 1
+            elif i == "[":
+                kuohao3 += 1
+            elif i == "]":
+                kuohao3 -= 1
+            else:
+                return False
+        if kuohao1 == kuohao2 == kuohao3 == 0:
+            return True
+        else:
+            return False
 
 s = Solution()
-print(s.isValid('[](){}'))
+# print(s.isValid("()[]{}"))
+print(s.isValid2("([)]"))

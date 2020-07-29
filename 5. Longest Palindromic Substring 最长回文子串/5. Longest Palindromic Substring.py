@@ -81,7 +81,6 @@ def longestP(s):
 
 
 
-
 if __name__ == "__main__":
     s = "babad"
     # print("=======================")

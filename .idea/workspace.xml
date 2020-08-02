@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdd5f7d3-15ed-4d62-b180-40e6fb0f417a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" beforeDir="false" afterPath="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,15 +101,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33269">
-              <caret line="1751" selection-start-line="1751" selection-end-line="1751" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
@@ -131,11 +121,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="861">
               <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="43" selection-start-line="43" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -231,7 +230,6 @@
         <option value="$PROJECT_DIR$/test/bank3.py" />
         <option value="$PROJECT_DIR$/test/bank1.py" />
         <option value="$PROJECT_DIR$/test/bank2.py" />
-        <option value="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" />
         <option value="$PROJECT_DIR$/test/Akuna1.py" />
         <option value="$PROJECT_DIR$/test/Akuna2.py" />
         <option value="$PROJECT_DIR$/test/Akuna3.py" />
@@ -255,14 +253,15 @@
         <option value="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py" />
         <option value="$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py" />
+        <option value="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-2560" />
-    <option name="y" value="-53" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="x" value="-2474" />
+    <option name="y" value="81" />
+    <option name="width" value="2559" />
+    <option name="height" value="1337" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -278,36 +277,6 @@
             <path>
               <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="3. Longest Substring Without Repeating Characters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="5. Longest Palindromic Substring 最长回文子串" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="12. Integer to Roman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="13. Roman to Integer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="14. Longest Common Prefix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
-              <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,29 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20. Valid Parentheses">
-    <configuration name="12. Integer to Roman" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12. Integer to Roman" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.521. Longest Uncommon Subsequence I">
     <configuration name="190.颠倒二进制位" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -460,6 +407,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="521. Longest Uncommon Subsequence I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -487,18 +456,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.3. Longest Substring Without Repeating Characters" />
-      <item itemvalue="Python.12. Integer to Roman" />
       <item itemvalue="Python.389. 找不同" />
       <item itemvalue="Python.190.颠倒二进制位" />
       <item itemvalue="Python.20. Valid Parentheses" />
+      <item itemvalue="Python.521. Longest Uncommon Subsequence I" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.521. Longest Uncommon Subsequence I" />
         <item itemvalue="Python.20. Valid Parentheses" />
         <item itemvalue="Python.3. Longest Substring Without Repeating Characters" />
         <item itemvalue="Python.190.颠倒二进制位" />
         <item itemvalue="Python.389. 找不同" />
-        <item itemvalue="Python.12. Integer to Roman" />
       </list>
     </recent_temporary>
   </component>
@@ -532,12 +501,12 @@
       <workItem from="1574839927091" duration="2565000" />
       <workItem from="1593434401670" duration="8784000" />
       <workItem from="1594991667916" duration="12008000" />
-      <workItem from="1595430233525" duration="3900000" />
+      <workItem from="1595430233525" duration="6061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46939000" />
+    <option name="totallyTimeSpent" value="49100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-53" width="2560" height="1440" extended-state="0" />
@@ -609,16 +578,10 @@
     <SUITE FILE_PATH="coverage/leetcode_study$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1574751399748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串" />
     <SUITE FILE_PATH="coverage/leetcode_study$12__Integer_to_Roman.coverage" NAME="12. Integer to Roman Coverage Results" MODIFIED="1574842681620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12. Integer to Roman" />
     <SUITE FILE_PATH="coverage/leetcode_study$190_.coverage" NAME="190.颠倒二进制位 Coverage Results" MODIFIED="1594741505058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_study$521__Longest_Uncommon_Subsequence_I.coverage" NAME="521. Longest Uncommon Subsequence I Coverage Results" MODIFIED="1596381117507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_study$3__Longest_Substring_Without_Repeating_Characters.coverage" NAME="3. Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1595174829178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Akuna3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -979,6 +942,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="43" selection-start-line="43" selection-end-line="50" />
         </state>
       </provider>
     </entry>

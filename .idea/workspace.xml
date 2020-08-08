@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdd5f7d3-15ed-4d62-b180-40e6fb0f417a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" beforeDir="false" afterPath="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists/21. merge 2 sorted list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,27 +95,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="997">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="722">
-                <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -124,46 +106,60 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+            <state relative-caret-position="1007">
+              <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/21. Merge Two Sorted Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/21. merge 2 sorted list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
+        <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="43" selection-start-line="43" selection-end-line="50" />
+            <state relative-caret-position="-333">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190.颠倒二进制位.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/389. 找不同.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/13. Roman to Integer/13. Roman to Integer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/Changhe.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -203,9 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix.py" />
-        <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/quick_sort.py" />
-        <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/215. Kth Largest Element in an Array.py" />
         <option value="$PROJECT_DIR$/test/input_output.py" />
         <option value="$PROJECT_DIR$/test/test_A+B.py" />
         <option value="$PROJECT_DIR$/53. Maximum Subarray/53. Maximum Subarray.py" />
@@ -214,7 +207,6 @@
         <option value="$PROJECT_DIR$/66. Plus One/66. Plus One.py" />
         <option value="$PROJECT_DIR$/67. Add Binary/67. Add Binary.py" />
         <option value="$PROJECT_DIR$/69. Sqrt(x)/69. Sqrt(x).py" />
-        <option value="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py" />
         <option value="$PROJECT_DIR$/88. Merge Sorted Array/88. Merge Sorted Array.py" />
         <option value="$PROJECT_DIR$/241. Different Ways to Add Parentheses.py" />
         <option value="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldow.py" />
@@ -254,14 +246,16 @@
         <option value="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py" />
         <option value="$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" />
+        <option value="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py" />
+        <option value="$PROJECT_DIR$/21. Merge Two Sorted Lists/21. Merge Two Sorted Lists.py" />
+        <option value="$PROJECT_DIR$/21. Merge Two Sorted Lists/21. merge 2 sorted list.py" />
+        <option value="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-2474" />
-    <option name="y" value="81" />
-    <option name="width" value="2559" />
-    <option name="height" value="1337" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -277,6 +271,21 @@
             <path>
               <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
+              <item name="21. Merge Two Sorted Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
+              <item name="27. Remove Element" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_study" type="462c0819:PsiDirectoryNode" />
+              <item name="83. Remove Duplicates from Sorted List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,29 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.521. Longest Uncommon Subsequence I">
-    <configuration name="190.颠倒二进制位" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190.颠倒二进制位.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.27. Remove Element">
     <configuration name="20. Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="389. 找不同" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="21. merge 2 sorted list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,12 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21. Merge Two Sorted Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/389. 找不同.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21. Merge Two Sorted Lists/21. merge 2 sorted list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="27. Remove Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,12 +380,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27. Remove Element" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Remove Element/27. Remove Element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,6 +408,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="83. Remove Duplicates from Sorted List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/83. Remove Duplicates from Sorted List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,19 +464,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3. Longest Substring Without Repeating Characters" />
-      <item itemvalue="Python.389. 找不同" />
-      <item itemvalue="Python.190.颠倒二进制位" />
       <item itemvalue="Python.20. Valid Parentheses" />
       <item itemvalue="Python.521. Longest Uncommon Subsequence I" />
+      <item itemvalue="Python.83. Remove Duplicates from Sorted List" />
+      <item itemvalue="Python.21. merge 2 sorted list" />
+      <item itemvalue="Python.27. Remove Element" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.27. Remove Element" />
+        <item itemvalue="Python.21. merge 2 sorted list" />
+        <item itemvalue="Python.83. Remove Duplicates from Sorted List" />
         <item itemvalue="Python.521. Longest Uncommon Subsequence I" />
         <item itemvalue="Python.20. Valid Parentheses" />
-        <item itemvalue="Python.3. Longest Substring Without Repeating Characters" />
-        <item itemvalue="Python.190.颠倒二进制位" />
-        <item itemvalue="Python.389. 找不同" />
       </list>
     </recent_temporary>
   </component>
@@ -501,24 +510,25 @@
       <workItem from="1574839927091" duration="2565000" />
       <workItem from="1593434401670" duration="8784000" />
       <workItem from="1594991667916" duration="12008000" />
-      <workItem from="1595430233525" duration="6061000" />
+      <workItem from="1595430233525" duration="9266000" />
+      <workItem from="1596860498675" duration="9322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49100000" />
+    <option name="totallyTimeSpent" value="61627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-53" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48739496" visible="true" weight="0.16322479" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48739496" visible="true" weight="0.26251787" />
       <window_info id="Structure" order="1" sideWeight="0.49411765" weight="0.24879615" />
       <window_info id="Favorites" order="2" sideWeight="0.5126051" side_tool="true" weight="0.41091493" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19124088" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21445782" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26506025" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -560,7 +570,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py</url>
-          <line>10</line>
+          <line>36</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -573,50 +583,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_study$389__.coverage" NAME="389. 找不同 Coverage Results" MODIFIED="1594654998158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_study$83__Remove_Duplicates_from_Sorted_List.coverage" NAME="83. Remove Duplicates from Sorted List Coverage Results" MODIFIED="1596877726335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/83. Remove Duplicates from Sorted List" />
     <SUITE FILE_PATH="coverage/leetcode_study$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1595806955663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20. Valid Parentheses" />
+    <SUITE FILE_PATH="coverage/leetcode_study$27__Remove_Element.coverage" NAME="27. Remove Element Coverage Results" MODIFIED="1596890861085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27. Remove Element" />
     <SUITE FILE_PATH="coverage/leetcode_study$101__Symmetric_Tree.coverage" NAME="101. Symmetric Tree Coverage Results" MODIFIED="1571490185316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/101. Symmetric Tree" />
     <SUITE FILE_PATH="coverage/leetcode_study$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1574751399748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串" />
     <SUITE FILE_PATH="coverage/leetcode_study$12__Integer_to_Roman.coverage" NAME="12. Integer to Roman Coverage Results" MODIFIED="1574842681620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12. Integer to Roman" />
     <SUITE FILE_PATH="coverage/leetcode_study$190_.coverage" NAME="190.颠倒二进制位 Coverage Results" MODIFIED="1594741505058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_study$521__Longest_Uncommon_Subsequence_I.coverage" NAME="521. Longest Uncommon Subsequence I Coverage Results" MODIFIED="1596381117507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_study$3__Longest_Substring_Without_Repeating_Characters.coverage" NAME="3. Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1595174829178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters" />
+    <SUITE FILE_PATH="coverage/leetcode_study$21__merge_2_sorted_list.coverage" NAME="21. merge 2 sorted list Coverage Results" MODIFIED="1596879917111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/21. Merge Two Sorted Lists" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/Akuna3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Akuna4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/input_output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="5" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Akuna2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Akuna1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/bank_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -896,6 +874,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="722">
+            <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/13. Roman to Integer/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -914,41 +930,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="722">
-            <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/Changhe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring 最长回文子串/5. Longest Palindromic Substring.py">
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/21. Merge Two Sorted Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="997">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="615">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12. Integer to Roman/12. Integer to Roman.py">
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/21. merge 2 sorted list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="867">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20. Valid Parentheses/20. Valid Parentheses.py">
+    <entry file="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/521. Longest Uncommon Subsequence I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="43" selection-start-line="43" selection-end-line="50" />
+        <state relative-caret-position="-333">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>

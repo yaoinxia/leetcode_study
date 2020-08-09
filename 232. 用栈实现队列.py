@@ -43,7 +43,6 @@ class MyQueue:
             self.front = x
         self.s1.append(x)
 
-
     def pop(self) -> int:
         """
         Removes the element from in front of queue and returns that element.

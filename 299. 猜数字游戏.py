@@ -39,15 +39,12 @@ class Solution:
             else:
                 s_d[s] = s_d.get(s, 0) + 1
                 g_d[g] = g_d.get(g, 0) + 1
-        # print(s_d, g_d)
         for sd in s_d:
             if sd in g_d:
-                # print(min(s_d.get(sd), g_d.get(sd)))
+
                 y += min(s_d.get(sd), g_d.get(sd))
         # print(str(x)+"A"+str(y)+"B")
         return str(x)+"A"+str(y)+"B"
-
-
 
 if __name__ == '__main__':
     obj = Solution()

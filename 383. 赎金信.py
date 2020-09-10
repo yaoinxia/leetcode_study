@@ -46,3 +46,4 @@ class Solution:
 
 print(Solution().canConstruct2("bg",
 "efjbdfbdgfjhhaiigfhbaejahgfbbgbjagbddfgdiaigdadhcfcj"))
+

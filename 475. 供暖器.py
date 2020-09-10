@@ -65,16 +65,34 @@ class Solution:
         # 房屋只有前面有取暖器，或者只有后面有
         for h in houses:
             # 如果房屋在取暖器右边或者在取暖器左边
-            if h < heaters[left] and :
+            if h < heaters[left]:
                 result.append(min(abs()))
 
+    def findRadius3(self, houses=[1, 2, 5], heaters=[3, 4, 7]):
+        result = []
+        houses.sort()
+        heaters.sort()
+        min_r = 0
+        if houses[0] >= heaters[-1]:
+            return houses[-1] - heaters[-1]
+        if houses[-1] <= heaters[0]:
+            return heaters[0] - houses[0]
+        for ho in houses:
+            for i, he in enumerate(heaters):
+                if i + 1 < len(heaters):
+                    if ho <= he and ho <= heaters[i+1]:
+                        result.append(he-ho)
+                        break
+                    elif  ho >= he and ho >= heaters[i+1]:
+                        result.append(ho-he)
+                        break
+                    elif ho >= he and ho <= heaters[i+1]:
+                        result.append(min(abs(ho-he), abs(heaters[i+1]-ho)))
+                        break
+        print(result)
+        return max(result)
+
         # 房屋有前有后的情况
-
-
-
-
-
-
 
 if __name__ == '__main__':
     print(Solution().findRadius3())
